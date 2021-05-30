@@ -2,13 +2,13 @@
 module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://gitmurf.github.io/',
+  baseUrl: '/doc-test-3/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'GitMurf', // Usually your GitHub org/user name.
+  projectName: 'doc-test-3', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
